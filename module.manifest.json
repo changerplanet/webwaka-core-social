@@ -1,0 +1,16 @@
+{
+  "moduleId": "webwaka-core-social",
+  "version": "0.0.0",
+  "class": "core",
+  "name": "Social Core",
+  "description": "Social & Community - Social networking services",
+  "repository": "https://github.com/changerplanet/webwaka-core-social",
+  "author": "WebWaka Team",
+  "license": "TBD",
+  "capabilities": [],
+  "dependencies": [],
+  "exports": {
+    "types": "./dist/index.d.ts",
+    "main": "./dist/index.js"
+  }
+}
